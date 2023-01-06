@@ -20,7 +20,7 @@ APP_ID = int(os.environ.get("APP_ID", "22131867"))
 API_HASH = os.environ.get("API_HASH", "87753b7dda07deb3fce40f6d7131cdc2")
 
 # ID Channel Database
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001795903988"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001858965040"))
 
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "Deemazzi")
@@ -39,7 +39,7 @@ UPSTREAM_BRANCH = os.environ.get("UPSTREAM_BRANCH", "master")
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001622016385"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001734372273"))
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "0"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
